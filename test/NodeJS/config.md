@@ -1,6 +1,6 @@
 ## Config project
 
-Install rocketseat cli to help create projects with a commom structure:
+Install rocketseat cli to help create projects with a common structure:
 
 `yarn global add @rocketseat/omni`
 

@@ -1,3 +1,0 @@
-- NodeJS
-  - [Config](/test/NodeJS/config.md)
-  - [Tests](/test/NodeJS/README.md)
